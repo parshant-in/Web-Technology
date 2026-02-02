@@ -1,0 +1,63 @@
+<html>
+  <head>
+    <title>   My Website </title>
+  </head>
+  
+  <body>
+    <p> This is my paragraph </p>
+    
+    <p> <b> This is bold </b> </p> 
+    
+    <p> <i> Hi </i> </p>
+    
+    <p> <u> Hello </u> </p>
+    
+    <p> I am <u> studying </u>  in <b> IILM University, </b> located in  <i> Greater Noida </i>  </p>
+    
+    <ol>
+      <li> Item 1 </li>
+      <li> Item 2 </li>
+      <ol type="A" start="2"> 
+      <li> CSK </li>
+       <li> MI </li>
+      </ol>
+       <li> RCB </li>
+       <li> KKR </li>
+       <li> DC </li>
+      
+    </ol>
+    <!-- Comment   -->
+    <ul>
+      <li> Item 1 </li>
+      <li> Item 2 </li>
+      <ol type="A" start="5">
+      <b> <li> CSK </li></b>
+       <li> MI </li>
+       <li> RCB </li>
+       <li> KKR </li>
+       <li> DC </li>
+      </ol>
+      
+    </ul>
+    <ul type ="disc">
+      <li> Nikhil</li>
+      <li> Prashant</li>
+    </ul>
+    <ul type ="circle">
+      <li> Nikhil</li>
+      <li> Prashant</li>
+    </ul>
+    <ul type ="square">
+      <li> Nikhil</li>
+      <li> Prashant</li>
+    </ul>
+    <!-- image insert -->
+    <img src="https://img.freepik.com/premium-photo/close-up-woman-photographing-with-camera_1048944-5409585.jpg?semt=ais_hybrid&w=740&q=80" height="250px" width="300px"/>
+  <br/>
+    <a href="https://www.linkedin.com/in/nikhilraghav77/"/> My LinkedIn </a>
+    
+    
+  </body>
+  
+  
+</html>
