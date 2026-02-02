@@ -1,0 +1,61 @@
+<!-- Rowspan and colspan in table-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Subject marks </title>
+</head>
+<body>
+  <table Border ="1" cellpadding="05" cellspacing = "0" align ="center" height="" weight ="">
+    <caption>Subject Marks</caption>
+    <tr>
+      <th>Name</th>
+       <th>Subject</th>
+       <th>Marks</th>
+      </tr>
+     <tr>
+      <td rowspan= "4">Nikhil</td>
+       <td>WeB Tech</td>
+       <td>90</td>
+      </tr>
+    <tr>
+     
+       <td>Compiler Design</td>
+       <td>85</td>
+      </tr>
+     <tr>
+     
+       <td>SDN</td>
+       <td>89</td>
+      </tr>
+    <tr>
+     
+       <td>Software Engineering</td>
+       <td>95</td>
+      </tr>
+    <tr>
+      <td rowspan= "4">Aditya</td>
+       <td>WeB Tech</td>
+       <td>100</td>
+      </tr>
+    
+    <tr>
+     
+       <td>SDN</td>
+       <td>100</td>
+      </tr>
+      <tr>
+       <td>Compiler Design</td>
+       <td>100</td>
+      </tr>
+    <tr>
+     
+       <td>Software Engineering</td>
+       <td>100</td>
+      </tr>
+         </table>
+  
+</body>
+</html>
