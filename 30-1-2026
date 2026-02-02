@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Web Page</title>
+</head>
+<body>
+  <table border ="1">
+    <caption> Nested Table</caption>
+     <tr>
+       <th colspan = "2"> Outer Table</th>
+    </tr>
+     <tr>
+       <td>My First data from outer Table</td>
+         <td>My Second  data from outer Table</td>
+    </tr>
+     <tr>
+       <td>My First Row - 1st cell data from outer Table</td>
+         <td>My First Row - 2nd cell data from outer Table</td>
+    </tr>
+     <tr>
+       <td>My Second Row - 1st cell data from outer Table</td>
+        <td>
+          <table border = "1">
+            <tr>
+            <tr> <th>My inner Table<th></tr>
+              <tr>Nested Table Data</tr>
+            </tr>
+        </td>
+    </tr>
+   
+    
+  </table>
+   <tr>
+      <td>Nikhil</td>
+    </tr>
+  
+<table border = "1">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Roll</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nikhil</td>
+      <td>CS-2341768</td>
+    </tr>
+    <tbody>
+      
+  </table>
+ 
+  
+</body>
+</html>
