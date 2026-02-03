@@ -1,0 +1,71 @@
+# Employee management System
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <table  border="1" cellpadding="10px" cellspacing="0">
+    <caption>
+        <b>Employee Management System</b></caption>
+    <tr>
+        <th>Management Level</th>
+        <th>Position</th>
+    </tr>
+    <tr>
+        <td>Top Level Management</td>
+        <td>
+            <ul>
+                <li>Board of Directors</li>
+                <li>CEO /Managing director</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>Senior Management</td>
+        <td>
+            <ul>
+                <li>Chief Technology /officer(CTO)</li>
+                <li>Chief Financial Officer(CFO)</li>
+                <li>Chief Human Resource Officer(CHRO)</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>Middle Management</td>
+        <td>
+            <ul>
+            <li>Department Management</li>
+            <ul>
+               <li>HR Managers</li> 
+               <li>IT Managers</li> 
+               <li>Marketing Managers</li> 
+            </ul>
+        </ul>
+        </td>
+    </tr>
+
+    <tr>
+        <td>First-Line Management</td>
+        <td><ul>
+            <li>Team Leaders</li>
+            <li>Supervisors</li>
+        </ul></td>
+    </tr>
+
+    <tr>
+        <td>Employees</td>
+        <td>
+            <ul>
+                <li>Developers</li>
+                <li>Accounts</li>
+                <li>Sales Executives</li>
+            </ul>
+        </td>
+    </tr>
+   </table>
+</body>
+</html>
